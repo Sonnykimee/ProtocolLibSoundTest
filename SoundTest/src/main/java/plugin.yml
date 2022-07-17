@@ -1,0 +1,9 @@
+name: SoundTest
+version: 1.0.0
+main: me.sonny.soundtest.SoundTest
+api-version: 1.18
+depend: [ ProtocolLib ]
+
+commands:
+  soundtest:
+    description: Hide your nickname on chat.
